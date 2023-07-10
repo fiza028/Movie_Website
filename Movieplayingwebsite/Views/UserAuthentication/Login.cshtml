@@ -1,0 +1,42 @@
+﻿@model Movieplayingwebsite.Models.DTO.LoginModel
+@{
+
+}
+<center>
+<form class="w-40" asp-action="Login" method="post">
+
+        <center><h2 class="pb-10" style="font-family:'Roboto Mono', sans-serif; font-size:xx-large"><b>Login</b></h2> </center>
+    <div class="input-container">
+        <label asp-for="Username" class="w-40">Username</label>
+        <input type="text" class="input" asp-for="Username">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="Username"></span>
+    </div>
+
+
+    <div class="input-container">
+        <label asp-for="Password" class="w-40">Password</label>
+        <input type="password" class="input" asp-for="Password">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="Password"></span>
+    </div>
+
+
+    @if(TempData["msg"]!=null)
+    {
+        <div class="alert mb-1">
+            @TempData["msg"]
+        </div>
+    }
+    <br />
+    <div class="input-container">
+            <button class="btn btn-default" type="submit" style="margin: 0;
+  position: absolute; top: 40%;
+    left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%)">
+                Login
+            </button>
+    </div>
+</form>
+</center>

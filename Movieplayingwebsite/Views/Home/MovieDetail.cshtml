@@ -1,0 +1,26 @@
+﻿@model Movieplayingwebsite.Models.Domain.Movie
+@{
+}
+    <div class="movie-detail w-80 m-auto">
+        <div class="img-container">
+            <img alt="image" src="/Uploads/@Model.MovieImage">
+        </div>
+
+        <div class="detail-container">
+        <h3 style="font-size:large; color:aliceblue; font-family: 'IBM Plex Mono', sans-serif">MovieName: @Model.Title</h3>
+        <h4 style="font-size:larger; color:aliceblue; font-family: 'IBM Plex Mono', sans-serif">ReleaseYear: @Model.ReleaseYear</h4>
+        <h4 style="font-size:larger; color:aliceblue; font-family: 'IBM Plex Mono', sans-serif">Cast: @Model.Cast</h4>
+        <h4 style="font-size:larger; color:aliceblue; font-family: 'IBM Plex Mono', sans-serif">Director: @Model.Director</h4>
+        </div>
+    <div class="w-80 m-auto">
+        <a href="/Home/Index" class="btn btn-default">Back</a>
+   
+        <a class="btn btn-default" asp-controller="Home" asp-action="MoviePlay" asp-route-id="@Model.Id">Play</a>
+    </div>
+
+</div>
+
+    
+   
+
+

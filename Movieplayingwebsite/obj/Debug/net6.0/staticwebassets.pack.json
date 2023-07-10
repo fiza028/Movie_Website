@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\05764b01-ab3f-4482-b7d6-c3a1a59b19dd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\05764b01-ab3f-4482-b7d6-c3a1a59b19dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\074cae27-eedd-4776-826f-375bfdf2e77f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\074cae27-eedd-4776-826f-375bfdf2e77f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\0b3ae993-82b8-4796-a2ef-b4e94863d698.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\0b3ae993-82b8-4796-a2ef-b4e94863d698.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\0c14fd65-a0e5-44c5-a786-9719a64a4388.png",
+      "PackagePath": "staticwebassets\\Uploads\\0c14fd65-a0e5-44c5-a786-9719a64a4388.png"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\142232a9-ae50-48ab-a8ff-c7cb55b9e569.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\142232a9-ae50-48ab-a8ff-c7cb55b9e569.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\14bf9357-e9e6-47c7-8629-61556efffb46.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\14bf9357-e9e6-47c7-8629-61556efffb46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\17f737cd-d9fc-4373-8db3-4d7e30a13d66.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\17f737cd-d9fc-4373-8db3-4d7e30a13d66.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\23c22bb1-a8e4-4219-86cf-a19d82c51050.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\23c22bb1-a8e4-4219-86cf-a19d82c51050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\3ab63804-5be6-41c5-a8f5-5dd979f6f459.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3ab63804-5be6-41c5-a8f5-5dd979f6f459.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\540b96aa-ddba-49fc-8dba-8335b8ed50b4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\540b96aa-ddba-49fc-8dba-8335b8ed50b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\62769481-d9fa-4c99-a1f8-ca65ad94ebdd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\62769481-d9fa-4c99-a1f8-ca65ad94ebdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\8be31341-c5f7-4d3e-b178-8026836327d7.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8be31341-c5f7-4d3e-b178-8026836327d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\9596a061-71b2-439b-829e-9a9038bdc3d5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9596a061-71b2-439b-829e-9a9038bdc3d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\a8f2edf0-8ecd-4dfc-b1b3-37712a6f230e.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\a8f2edf0-8ecd-4dfc-b1b3-37712a6f230e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\bc9d2ac4-0881-4667-9a75-3691e2664b69.png",
+      "PackagePath": "staticwebassets\\Uploads\\bc9d2ac4-0881-4667-9a75-3691e2664b69.png"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\be7d814f-7670-4425-9cfb-60ad146e9885.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\be7d814f-7670-4425-9cfb-60ad146e9885.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\c0a9abac-a956-4c8e-be14-a3adf48d4eb3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c0a9abac-a956-4c8e-be14-a3adf48d4eb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\c7eb0069-cfd2-46fb-a24a-a1cfdd8f0dce.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c7eb0069-cfd2-46fb-a24a-a1cfdd8f0dce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\dc192540-86ca-4318-b91a-4c25545dfb4b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dc192540-86ca-4318-b91a-4c25545dfb4b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\e78034f5-d55e-4217-bad8-e5eff953b4a3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e78034f5-d55e-4217-bad8-e5eff953b4a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\f3f1ba1f-fe47-47e8-9297-b754256e83cd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f3f1ba1f-fe47-47e8-9297-b754256e83cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\Uploads\\fd5ff87d-bcaf-4361-80c2-d46a6384c4c2.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\fd5ff87d-bcaf-4361-80c2-d46a6384c4c2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back1.jpg",
+      "PackagePath": "staticwebassets\\images\\back1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back2.jpg",
+      "PackagePath": "staticwebassets\\images\\back2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back3.jpg",
+      "PackagePath": "staticwebassets\\images\\back3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back4.jpg",
+      "PackagePath": "staticwebassets\\images\\back4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back5.jpg",
+      "PackagePath": "staticwebassets\\images\\back5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\back6.jpg",
+      "PackagePath": "staticwebassets\\images\\back6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\images\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c5.jpg",
+      "PackagePath": "staticwebassets\\images\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c6.jpg",
+      "PackagePath": "staticwebassets\\images\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c7.jpg",
+      "PackagePath": "staticwebassets\\images\\c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\c8.jpg",
+      "PackagePath": "staticwebassets\\images\\c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\i1.jpg",
+      "PackagePath": "staticwebassets\\images\\i1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\i2.jpg",
+      "PackagePath": "staticwebassets\\images\\i2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\i3.jpg",
+      "PackagePath": "staticwebassets\\images\\i3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\i4.jpg",
+      "PackagePath": "staticwebassets\\images\\i4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m10.jpg",
+      "PackagePath": "staticwebassets\\images\\m10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m11.jpg",
+      "PackagePath": "staticwebassets\\images\\m11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m12.jpg",
+      "PackagePath": "staticwebassets\\images\\m12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m5.jpg",
+      "PackagePath": "staticwebassets\\images\\m5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m6.jpg",
+      "PackagePath": "staticwebassets\\images\\m6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m7.jpg",
+      "PackagePath": "staticwebassets\\images\\m7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m8.jpg",
+      "PackagePath": "staticwebassets\\images\\m8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\images\\m9.jpeg",
+      "PackagePath": "staticwebassets\\images\\m9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Farzana Fiza\\Desktop\\Movie_Website\\Movieplayingwebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Movieplayingwebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Movieplayingwebsite.props",
+      "PackagePath": "build\\Movieplayingwebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Movieplayingwebsite.props",
+      "PackagePath": "buildMultiTargeting\\Movieplayingwebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Movieplayingwebsite.props",
+      "PackagePath": "buildTransitive\\Movieplayingwebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using Movieplayingwebsite.Models.Domain;
+@inject SignInManager<ApplicationUser> signInManager;
+@inject IHttpContextAccessor contxt;
+@inject UserManager<ApplicationUser> UserManager;
+
+@{
+    string username = User.Identity.Name;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVIE WEBSITE</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/forms.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Lato:ital,wght@0,400;0,700;1,100;1,400;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Poppins:wght@200;300;400;500;600;700&family=Press+Start+2P&family=Recursive:wght@400;500;600;800&family=Roboto+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  
+
+</head>
+<body >
+    <div class="background-image">
+    <nav class="nav-bar">
+        <div class="logo" style="font-family: 'Lato', sans-serif">
+            movie website
+        </div>
+        <ul class="nav-link">
+                <li><a class="active" href="/Home/Index" >Home</a></li>
+                <li><a href="/Home/About">About</a></li>
+            @if (User.IsInRole("Admin"))
+            //only admin can see this section
+            {
+                <li>
+                        @*
+                            to get session variables->
+                        @contxt.HttpContext.Session.GetString("Username")
+                        *@
+                        <a href="#">@UserManager.GetUserAsync(User).Result.Name<i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/Genre/Add">Genre</a></li>
+                        <li><a href="/Movie/Add">Movie</a></li>
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+
+            
+            @if (string.IsNullOrEmpty(username))
+            {
+                <li><a href="/UserAuthentication/Login">Login</a></li>
+            }
+        </ul>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+
+
+  
+    
+    </div>
+</body>
+
+</html>

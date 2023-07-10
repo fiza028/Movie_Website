@@ -1,0 +1,42 @@
+﻿@model Movieplayingwebsite.Models.DTO.MovieListVm
+@{
+
+}
+
+<div class="tbl-container">
+    <h2 style="font-size: x-large; color:whitesmoke"><center><b>Movie Lists</b></center></h2>
+
+    <table>
+        <tr>
+            <th><b>Title</b></th>
+            <th><b>Genre</b></th>
+            <th><b>ReleaseYear</b></th>
+            <th><b>Image</b></th>
+            <th><b>VideoUrl</b></th>
+            <th><b>Cast</b></th>
+            <th><b>Director</b></th>
+            <th><b>Action</b></th>
+        </tr>
+        @foreach (var item in Model.MovieList)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.GenreNames</td>
+                <td>@item.ReleaseYear</td>
+                <td><img style="height:60px; width:80px" src="/Uploads/@item.MovieImage"/></td>
+                <td>@item.VideoUrl</td>
+                <td>@item.Cast</td>
+                <td>@item.Director</td>
+                
+                <td>
+                    <a href="/Movie/Edit?id=@item.Id" class="btn btn-default"><i class="fa fa-edit"></i></a>
+                    <a onclick="return window.confirm('Are you sure?')" href="/Movie/Delete?id=@item.Id" class="btn btn-danger"><i class="fa fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div class="input-container">
+        <a href="/Movie/Add" class="btn btn-sec">Back</a>
+    </div>
+</div>
